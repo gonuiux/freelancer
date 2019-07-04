@@ -1,7 +1,0 @@
-# freelancer
-## Đăng nhập
-Tạo tài khoản quản trị
-Post bài viết
-Tạo category
-Thiết lập menu
-Edit  header
